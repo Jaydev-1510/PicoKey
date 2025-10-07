@@ -20,3 +20,16 @@ Today I completed the schematic for my PassKey (PicoKey by name). I have chosen 
 ### Time Spent: 1h
 ![Schematic](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzMxLCJwdXIiOiJibG9iX2lkIn19--f0ddff0d15efaf91410b30fc21f8cccbe2cd5cf3/SCH_Schematic1_1-P1_2025-10-06.svg)  
 
+## 10/7/2025 - Routed the PCB  
+
+## Day-2
+### Completed Routing
+
+It was very tough to make it on a very small PCB. I have managed to achieve a very tiny size of 12mm * 30mm while using cheap and basic components. I have chosen basic components which were available and are 0402 in size. I had started routing yesterday and completed it today. I had to do trial and error so as too achieve a very compact size. Now, I'll complete the BOM and other stuff, and then finally ship it.🚢
+
+### Time Spent: 3.5h
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODY2LCJwdXIiOiJibG9iX2lkIn19--343cd347dd69211fc981e4a9c883175f040da856/image.png)
+
+  
+
