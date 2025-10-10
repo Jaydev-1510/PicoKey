@@ -33,3 +33,16 @@ It was very tough to make it on a very small PCB. I have managed to achieve a ve
 
   
 
+## 10/10/2025 - Made changes  
+
+## Day-3
+
+### Made changes
+
+I had uploaded the Gerber and the BOM in order to get the generate the quotation for PCB fabrication. I got to know that that the LED I had chosen was not in stock so I changed it and its resistor. Here is the final cost of PCB fabrication which is about $42.5
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--e5fe01e4613c166238e33aa3fb40c754724e3275/image.png)
+
+### Time Spent: 0.5h
+   
+
