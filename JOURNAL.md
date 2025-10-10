@@ -33,15 +33,3 @@ It was very tough to make it on a very small PCB. I have managed to achieve a ve
 
   
 
-## 10/10/2025 - Made changes  
-
-## Routed the PCB
-### Day-2
-### Completed Routing
-
-I had uploaded the Gerber and BOM for quotation and found that the led was not available so I replaced led and its resistor with a new one. Here is the final quotation of the PCB fabrication which is about $42.5.
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--77733d51231d8e3884d699e43df32ceb510dcc43/image.png)
-
-### Time Spent: 0.5h  
-
