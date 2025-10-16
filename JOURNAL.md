@@ -46,3 +46,14 @@ I had uploaded the Gerber and the BOM in order to get the generate the quotation
 ### Time Spent: 0.5h
    
 
+## 10/16/2025 - Add README.md + schematic  
+
+## Day-4
+### Add README.md + schematic
+I added more content to the README.md about this project as suggested by @CAN. Also, the schematic image is not shown in the blueprint journal so I have added it here again. This is the schematic-
+
+![SCH_Schematic1_1-P1_2025-10-16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4NywicHVyIjoiYmxvYl9pZCJ9fQ==--a24c2bdd3ae2c266bc921236433d3e487b3cefee/SCH_Schematic1_1-P1_2025-10-16.png)
+
+### Time Spent: 0.5h
+  
+
