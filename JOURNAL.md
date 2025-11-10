@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **PicoKey**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/203).
-
-
 ## 10/6/2025 - Completed the Schematic  
 
 ## Day-1
@@ -55,5 +51,14 @@ I added more content to the README.md about this project as suggested by @CAN. A
 ![SCH_Schematic1_1-P1_2025-10-16.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4NywicHVyIjoiYmxvYl9pZCJ9fQ==--a24c2bdd3ae2c266bc921236433d3e487b3cefee/SCH_Schematic1_1-P1_2025-10-16.png)
 
 ### Time Spent: 0.5h
+  
+
+## 11/10/2025 - Received the PCB  
+
+Finally here's the moment of truth. I finally received my PicoKey. I had to make it 2mm from 1.6mm. I used tape for it. Also flashed the firmware. Here are some of its images. Take a look-
+![IMG_20251110_173425](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMTUsInB1ciI6ImJsb2JfaWQifX0=--d4662c2ccdd716e364f52d7cbcaa563926e0a89c/IMG_20251110_173425.jpg)
+![IMG_20251110_174105](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMTcsInB1ciI6ImJsb2JfaWQifX0=--e402bb9fcceb28ed13c8fd0b81ee6db500748826/IMG_20251110_174105.jpg)
+![IMG_20251110_173808](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMTYsInB1ciI6ImJsb2JfaWQifX0=--6e4881f4d6e877dced9a67a3251a03cc30298f41/IMG_20251110_173808.jpg)
+
   
 
