@@ -4,6 +4,14 @@
 
 ---
 
+## 📷 Pictures
+
+![PicoKey](https://github.com/user-attachments/assets/def03033-f218-47a6-96de-18343b5bb70c)
+
+![PicoKey near ruler](https://github.com/user-attachments/assets/f789bd6e-5406-4ff1-865c-d19e272d62de)
+
+---
+
 ## ⚙️ Features
 
 * 🧠 **Powered by RP2354** — dual-core ARM Cortex-M33 with hardware crypto engine
